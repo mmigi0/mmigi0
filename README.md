@@ -1,4 +1,5 @@
 ## Miguel Bustaleño
-
-- 💼 *Graduating SHS*
-- 👨‍💻 *currently learning - Java & HTML*
+I like art, literature and photography 
+```
+💼 SHS ICT student @ MMCM
+💻 currently learning - Java & HTML
